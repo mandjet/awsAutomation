@@ -1,0 +1,2 @@
+# awsAutomation
+scripts for aws
